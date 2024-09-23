@@ -2,7 +2,7 @@ import os
 import re
 
 # Define the folder where the mp4 files are located
-folder_path = r"C:\Users\thinkpad\Downloads\5D"
+folder_path = r"C:\Users\thinkpad\Downloads\10D"
 
 # Loop through all files in the folder
 for filename in os.listdir(folder_path):
